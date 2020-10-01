@@ -14,7 +14,7 @@
 #miLogo {
   font-size: 30px;
   font-weight: 900;
-  color: #5e17eb !important;
+  color: #2b918b !important;
 }
 
 @media screen and (max-width: 712px) {
@@ -37,17 +37,17 @@
 
 .boton-1 {
   padding: 10px 30px;
-  background: #5e17eb;
+  background: #2b918b;
   margin: 10px 0px;
   border-radius: 5px;
   text-decoration: none;
   color: white !important;
   font-weight: 400;
   font-size: 16px !important;
-  border: 2px solid #5e17eb;
+  border: 2px solid #f8f9fa;
   font-weight: bold;
-  -webkit-box-shadow: 0px 2px 2px #5e17eb;
-          box-shadow: 0px 2px 2px #5e17eb;
+  -webkit-box-shadow: 0px 2px 2px #2b918b;
+          box-shadow: 0px 2px 2px #2b918b;
 }
 
 .boton-1 ion-icon {
@@ -66,14 +66,14 @@
 
 .boton-2 {
   padding: 10px 30px;
-  background: #00051de8;
+  background: #2b918b;
   margin: 10px 0px;
   border-radius: 5px;
   text-decoration: none;
   color: white !important;
   font-weight: 400;
   font-size: 16px !important;
-  border: 2px solid #00051de8;
+  border: 2px solid #ffffffe8;
   font-weight: bold;
   -webkit-box-shadow: 0px 2px 2px #00051de8;
           box-shadow: 0px 2px 2px #00051de8;
@@ -87,7 +87,7 @@
 .boton-2:hover {
   -webkit-transition: all .3s;
   transition: all .3s;
-  border: 2px solid #5e17eb;
+  border: 2px solid #f8f9fa;
   background-color: transparent;
   text-decoration: none !important;
   color: white !important;
@@ -108,7 +108,7 @@
 #miLogo {
   font-size: 30px;
   font-weight: 900;
-  color: #5e17eb !important;
+  color: #2b918b !important;
 }
 
 @media screen and (max-width: 712px) {
@@ -220,13 +220,13 @@
   font-weight: bold;
   padding: 10px;
   border-radius: 50%;
-  background-color: #5e17eb;
+  background-color: #2b918b;
 }
 
 @media screen and (max-width: 950px) {
   .divMenu nav .divIcoMenu .icoMenu ion-icon {
     z-index: 100000;
-    color: #00051de8;
+    color: #f8f9fa;
   }
 }
 
@@ -300,7 +300,7 @@
 
 @media screen and (max-width: 712px) {
   .openMenu {
-    width: 100% !important;
+    width: 55% !important;
     height: 100vh;
   }
 }
@@ -369,7 +369,7 @@
 }
 
 .openMenu .padre a:hover {
-  color: #5e17eb;
+  color:#2b918b;
 }
 
 .openMenu .padre a ion-icon {
@@ -416,7 +416,7 @@ body {
 }
 
 .ligth h1 {
-  color: #00051de8;
+  color: #2b918b;
 }
 
 .ligth h3 {
@@ -450,7 +450,7 @@ body {
 .ligth .port-learn .tar-learn:hover {
   -webkit-transition: all .4s;
   transition: all .4s;
-  background-color: #5e17eb !important;
+  background-color: #2b918b !important;
 }
 
 .ligth .port-learn .tar-learn:hover h3 {
@@ -466,11 +466,11 @@ body {
 }
 
 .ligth .boton-1:hover {
-  color: #5e17eb !important;
+  color:#2b918b !important;
 }
 
 .ligth .boton-2:hover {
-  color: #5e17eb !important;
+  color:#f8f9fa !important;
 }
 
 .dark {
@@ -513,7 +513,7 @@ body {
 }
 
 .dark .camb-color ion-icon {
-  color: #00051de8;
+  color:#2b918b;
 }
 
 .dark .tarjeB {
@@ -693,7 +693,7 @@ header .div-header .divText h3 {
 }
 
 header .div-header .divText h3 span {
-  color: #5e17eb;
+  color:#2b918b;
   font-weight: bold;
 }
 
@@ -710,7 +710,7 @@ header .div-header .divText h1 {
 }
 
 header .div-header .divText h1 span {
-  color: #5e17eb;
+  color:#2b918b;
 }
 
 header .div-header .divText p {
@@ -720,7 +720,7 @@ header .div-header .divText p {
 
 header .div-header .divText p a {
   text-decoration: none;
-  color: #5e17eb;
+  color:#2b918b;
 }
 
 header .div-header .divText p a::after {
@@ -862,7 +862,7 @@ header .div-header .divImg img {
 
 .mensajeBienvenida .tarjeB div h2 {
   font-size: 30px;
-  color: #5e17eb;
+  color:#2b918b;
 }
 
 .mensajeBienvenida .tarjeB div a {
@@ -870,7 +870,7 @@ header .div-header .divImg img {
 }
 
 .mensajeBienvenida .tarjeB div ion-icon {
-  background-color: #5e17eb;
+  background-color:#2b918b;
   font-size: 40px;
   color: white;
   padding: 12px;
@@ -949,7 +949,7 @@ header .div-header .divImg img {
 .seccionMi .divSecMi .text .habi p::before {
   content: '⇉';
   padding: 0px 10px;
-  color: #5e17eb;
+  color:#2b918b;
   font-weight: bold;
 }
 
@@ -1037,7 +1037,7 @@ header .div-header .divImg img {
           box-sizing: border-box;
   overflow: hidden !important;
   position: relative;
-  background-color: #5e17eb;
+  background-color:#2b918b;
   border-radius: 8px;
   -o-object-fit: cover;
      object-fit: cover;
@@ -1085,7 +1085,7 @@ header .div-header .divImg img {
   -webkit-transition: all .4s;
   transition: all .4s;
   height: inherit;
-  background-color: rgba(131, 0, 218, 0.692);
+  background-color: rgba(17, 131, 121, 0.562);
 }
 
 .seccion-portafolio .div-portafolio .tarjt-portafolio:focus .text {
@@ -1094,7 +1094,7 @@ header .div-header .divImg img {
   -webkit-transition: all .4s;
   transition: all .4s;
   height: inherit;
-  background-color: rgba(131, 0, 218, 0.692);
+  background-color: rgba(17, 131, 121, 0.562);
 }
 
 .seccion-portafolio .div-portafolio .tarjt-portafolio div {
@@ -1206,7 +1206,7 @@ header .div-header .divImg img {
   width: 100%;
   padding: 12px;
   font-size: 16px;
-  border: 2px solid #5e17eb;
+  border: 2px solid#2b918b;
   border-radius: 8px;
 }
 
@@ -1214,21 +1214,21 @@ header .div-header .divImg img {
   width: 100%;
   padding: 10px;
   font-size: 16px;
-  border: 2px solid #5e17eb;
+  border: 2px solid#2b918b;
   border-radius: 5px;
 }
 
 .seccion-form .div-form form #btnValidar {
   width: auto;
   padding: 10px 30px;
-  background: #00051de8;
+  background: #2b918b;
   margin: 10px 0px;
   border-radius: 5px;
   text-decoration: none;
   color: white !important;
   font-weight: 400;
   font-size: 16px !important;
-  border: 2px solid #00051de8;
+  border: 2px solid #ffffff;
   font-weight: bold;
   -webkit-box-shadow: 0px 2px 2px #00051de8;
           box-shadow: 0px 2px 2px #00051de8;
@@ -1237,7 +1237,7 @@ header .div-header .divImg img {
 .seccion-form .div-form form #btnValidar:hover {
   -webkit-transition: all .3s;
   transition: all .3s;
-  border: 2px solid #5e17eb;
+  border: 2px solid#2b918b;
   background-color: transparent;
   color: white !important;
 }
@@ -1257,7 +1257,7 @@ header .div-header .divImg img {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  padding: 20px 0px;
+  padding: 0px 0px;
 }
 
 .otra h1 {
@@ -1267,11 +1267,11 @@ header .div-header .divImg img {
 
 .seccion-trab {
   width: 100%;
-  background-color: #5e17eb;
+  background-color:#2b918b;
 }
 
 .seccion-trab .div-trab {
-  padding: 50px 0px;
+  padding: 5px 0px;
   width: 100%;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -1319,7 +1319,7 @@ header .div-header .divImg img {
 
 footer {
   width: 100%;
-  background-color: #5e17eb;
+  background-color:#2b918b;
 }
 
 footer hr {
