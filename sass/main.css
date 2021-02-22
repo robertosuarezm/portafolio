@@ -948,7 +948,7 @@ header .div-header .divImg img {
 
 .seccionMi .divSecMi .text .habi p::before {
   content: '⇉';
-  padding: 0px 10px;
+  padding: 10px 10px;
   color:#2b918b;
   font-weight: bold;
 }
